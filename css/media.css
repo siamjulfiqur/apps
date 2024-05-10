@@ -1,0 +1,890 @@
+/* Extra_small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) 
+{
+    /* header start  */
+.menu ul li a {
+    padding: 10px 30px 0 0 !important;
+    color: #242f51;
+}
+
+.menu {
+    padding: 30px 0 0 5px;
+
+}
+.try button {
+    margin: 10px 0 0 0px;
+
+}
+/* header end  */
+    /* banner start */
+    .menu {
+        padding: 0 40px 0 40px !important;
+    }
+    .add {
+        padding: 0 0 0 40px !important;
+    }
+    .pad {
+        padding: 0 10px !important;
+    }
+    .header {
+        padding: 10px 20px 0 0;
+    } 
+    .pimg {
+        padding: 120px 0px 0 0;
+    } 
+    .bntext {
+        text-align: center;
+        padding: 20px 0 120px 0px;
+    } 
+
+    .bbh2 {
+        margin: 0px 70px 7px 70px;
+    }
+    .bh2 {
+        padding: 10px 20px 0 20px;
+        font-weight: 600;
+        font-size: 28px;
+    } 
+    .ph2 {
+        padding: 20px 20px 30px 0;
+    }
+    .ah2 {
+        text-decoration: none;
+        padding: 10px 0 0 0;
+        color: #4c2fed;
+    }
+    /* banner end  */
+
+    /* companies start  */
+    .padl {
+        padding: 0 0px 0 40px
+        }
+    /* companies start  */
+    
+/* feature start  */
+.fimg {
+    padding: 0 0 0 0px;
+}
+.ftext {
+    padding: 0px 0px 15px 0px !important;
+}
+.fp {
+    padding: 0 0px 20px 10px;
+}
+.fh6 {
+    padding: 0 0px 15px 10px;
+    font-weight: 600;
+    font-size: 28px;
+}
+.fpng {
+    padding: 0px 0px 0px 0px;
+}
+.ficon {
+    padding: 0px 0 0 0;
+}
+.pfeat {
+    padding: 100px 0 0 0 !important;
+}
+.fwt {
+    padding: 0 0 0 10px;
+    width: 60px;
+}
+.fsnt {
+    text-align: center;
+}
+/* feature end  */
+
+/* smart start / */
+.sh2 {
+    font-size: 30px;
+    font-weight: 700;
+    padding: 0px 20px 45px 20px;
+    line-height: 50px;
+}
+.sp {
+    padding: 0px 0px 0px 50px
+}
+/* smart start / */
+.sh2 {
+    text-align: center;
+    font-size: 34px;
+    font-weight: 700;
+    padding: 0px 0px 45px 0px;
+    line-height: 50px;
+}
+.sp {
+    padding: 0px 0px 0px 50px
+}
+/* smart start / */
+
+/* smart icon start  */
+.sipad {
+    padding: 80px 0 0 20px !important;
+}
+
+/* smart icon end  */
+
+/* design start  */
+.dtex {
+    padding: 30px 0 32px 0;
+    font-weight: 700;
+    font-size: 35px;
+}
+
+.dtext {
+    padding: 0 0 0 0px;
+    text-align: center;
+}
+
+.dmr {
+    margin: 0 0 0 0;
+}
+
+.dimg {
+    width: 550px;
+}
+
+/* design start  */
+
+/* choose start  */
+.cpra {
+    padding: 20px 0 0 0;
+}
+
+.ctext {
+    text-align: center;
+    padding: 100px 0 0 0;
+}
+/* choose end  */
+
+/* choose icon start  */
+.cip {
+    padding: 10px 15px 0 15px;
+}
+/* choose icon end  */
+
+/* built start  */
+.bh5 {
+    padding: 0 20px 0 15px;
+    font-weight: 700;
+    font-size: 35px;
+}
+.bpra {
+    padding: 30px 15px 30px 15px ;
+}
+.bpra2 {
+    padding: 0 0px 0 0;
+}
+.bucnt {
+    padding: 0 0 0 25px
+}
+.fw-bold {
+    padding: 0 10px 0 0;
+}
+.bimg {
+    padding-top: 145px;
+    width: 350px;
+}
+/* built end  */
+
+/* charge start  */
+.ch6 {
+    padding: 0 0px 10px 0px
+}
+.crpra {
+    padding: 0 0px 0 0p
+}
+
+
+.crpad {
+    margin: 0 5px 40px 5px !important;
+}
+.crpad2{
+    margin: 0 5px 0 5px !important;
+}
+.ulcr {
+    text-align: center;
+}
+/* charge end  */
+
+
+.teh5 {
+    padding: 0 0 0 11px !important;
+}
+
+
+
+/* question start  */
+.qupra {
+    padding: 0 0 0 0;
+}
+.qupad {
+    margin: 0 0 0 0;
+}
+
+/* question end  */
+
+/* download start  */
+.dowmar {
+    margin: 0 0px 0 0px !important;
+}
+
+.doh2 {
+    padding: 20px 0px 30px 0;
+    font-weight: 700;
+    font-size: 50px;
+}
+.dowith {
+    width: 500px;
+}
+.doimg2 {
+    margin: 0px 0px 0 0;
+}
+.built {
+    padding: 100px 0 0 0;
+}
+
+.app {
+    margin: 0 0 0 0px;
+    width: 100px;
+}
+.pay {
+    width: 100px;
+}
+/* download end  */
+
+
+}
+
+ /* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) 
+{
+/* header start  */
+.menu ul li a {
+    padding: 10px 30px 0 0 !important;
+    color: #242f51;
+}
+
+.menu {
+    padding: 30px 0 0 0;
+
+}
+.try button {
+    margin: 10px 0 0 0px;
+
+}
+/* header end  */
+    /* banner start */
+    .menu {
+        padding: 0 40px 0 40px !important;
+    }
+    .add {
+        padding: 0 0 0 40px !important;
+    }
+    .pad {
+        padding: 0 10px !important;
+    }
+    .header {
+        padding: 10px 20px 0 0;
+    } 
+    .pimg {
+        padding: 120px 0px 0 0;
+    } 
+    .bntext {
+        text-align: center;
+        padding: 20px 0 120px 0px;
+    } 
+    .cnt {
+        margin: 0 70px 0 80px;
+    } 
+    .bh2 {
+        padding: 10px 70px 0 70px;
+        font-weight: 600;
+        font-size: 30px;
+    } 
+    .ph2 {
+        padding: 20px 20px 30px 0;
+    }
+    /* banner end  */
+
+        /* companies start  */
+        .padl {
+            padding: 0 15px 0 15px;
+            }
+        /* companies start  */
+
+/* feature start  */
+.fimg {
+    padding: 0 0 0 0px;
+}
+.ftext {
+    padding: 0px 80px 15px 25px !important;
+}
+.fp {
+    padding: 0 0px 20px 10px;
+}
+.fh6 {
+    padding: 0 100px 15px 10px;
+    font-weight: 600;
+    font-size: 28px;
+}
+.fpng {
+    padding: 0px 0px 0 0px;
+}
+.ficon {
+    padding: 0px 0 0 0;
+}
+.pfeat {
+    padding: 100px 0 0 0 !important;
+}
+.fwt {
+    padding: 0 0 0 10px;
+    width: 60px;
+}
+/* feature end  */
+
+/* feature end  */ 
+
+/* smart start / */
+.sh2 {
+    font-size: 30px;
+    font-weight: 700;
+    padding: 0px 20px 45px 20px;
+    line-height: 50px;
+}
+.sp {
+    padding: 0px 0px 0px 50px
+}
+/* smart start / */
+
+
+/* design start  */
+.dtex {
+    padding: 0 0 20px 0;
+    font-weight: 700;
+    font-size: 35px;
+}
+
+.dtext {
+    padding: 0 0 0 0px;
+    text-align: center;
+}
+
+.dmr {
+    margin: 0 0 0 0;
+}
+
+.dimg {
+    width: 550px;
+}
+
+/* design start  */
+
+/* choose start  */
+.cpra {
+    padding: 20px 50px 0 50px;
+}
+
+.ctext {
+    text-align: center;
+    padding: 100px 0 0 0;
+}
+/* choose end  */
+
+/* choose icon start  */
+.cip {
+    padding: 10px 15px 0 15px;
+}
+/* choose icon end  */
+
+/* built start  */
+.bh5 {
+    padding: 0 80px 0 80px;
+    font-weight: 700;
+    font-size: 35px;
+}
+.bpra {
+    padding: 30px 15px 30px 15px ;
+}
+.bucnt {
+    padding: 0 0 0 0;
+}
+.fw-bold {
+    padding: 0 10px 0 0;
+}
+.bimg {
+    padding-top: 145px;
+    width: 350px;
+}
+/* built end  */
+
+/* charge start  */
+.ch6 {
+    padding: 0 120px 10px 120px
+}
+.crpra {
+    padding: 0 20px 0 20px;
+}
+
+
+.crpad {
+    margin: 0 5px 40px 5px !important;
+}
+.crpad2{
+    margin: 0 5px 0 5px !important;
+}
+/* charge end  */
+
+/* question start  */
+.qupra {
+    padding: 0 60px 0 60px;
+}
+.qupad {
+    margin: 0 0 0 0;
+}
+
+/* question end  */
+
+/* download start  */
+.dowmar {
+    margin: 0 0px 0 0px !important;
+}
+
+.doh2 {
+    padding: 20px 0px 30px 0;
+    font-weight: 700;
+    font-size: 50px;
+}
+.dowith {
+    width: 500px;
+}
+.doimg2 {
+    margin: 0px 0px 0 0;
+}
+.built {
+    padding: 100px 0 0 0;
+}
+/* download end  */
+
+}
+
+ /* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) 
+{
+/* header start  */
+    .menu ul li a {
+        padding: 10px 30px 0 0 !important;
+        color: #242f51;
+    }
+
+    .menu {
+        padding: 30px 0 0 0;
+
+    }
+    .try button {
+        margin: 10px 0 0 0px;
+
+    }
+    /* header end  */
+            /* banner start */
+            .menu {
+                padding: 0 40px 0 40px !important;
+            }
+            .add {
+                padding: 0 0 0 40px !important;
+            }
+            .pad {
+                padding: 0 10px !important;
+            }
+            .header {
+                padding: 10px 20px 0 0;
+            } 
+            .pimg {
+                padding: 120px 17px 0 0;
+            } 
+            .bntext {
+                padding: 200px 0 220px 0px
+            } 
+            .bh2 {
+                font-weight: 600;
+                font-size: 40px;
+            } 
+            .ph2 {
+                padding: 20px 20px 30px 0;
+            }
+    /* banner end  */
+    /* companies start  */
+    .padl {
+        padding: 0 15px 0 15px;
+        }
+    /* companies start  */
+/* feature start  */
+.fimg {
+    padding: 0 0 0 0px;
+}
+.ftext {
+    padding: 0px 0px 0px 25px !important;
+}
+.fp {
+    padding: 0 0px 20px 0;
+}
+.fh6 {
+    padding: 0 100px 15px 0;
+    font-weight: 600;
+    font-size: 28px;
+}
+.fpng {
+    padding: 80px 250px 0 0px;
+}
+.ficon {
+    padding: 0px 0 0 0;
+}
+.pfeat {
+    padding: 100px 0 0 0 !important;
+}
+/* feature end  */ 
+
+/* smart start / */
+.sh2 {
+    font-size: 30px;
+    font-weight: 700;
+    padding: 0 20px 0 20px;
+    line-height: 50px;
+}
+.sp {
+    padding: 0px 63px 0px 0;
+}
+/* smart start / */
+
+/* design start  */
+.dtex {
+    padding: 0 40px 20px 0;
+    font-weight: 700;
+    font-size: 35px;
+}
+
+.dtext {
+    padding: 0 0 0 90px;
+}
+
+.dmr {
+    margin: 0 0 0 0;
+}
+
+.dimg {
+    width: 350px;
+}
+
+/* design start  */
+/* choose start  */
+.cpra {
+    padding: 20px 50px 0 50px;
+}
+/* choose end  */
+
+/* choose icon start  */
+.cip {
+    padding: 10px 15px 0 15px;
+}
+/* choose icon end  */
+
+/* built start  */
+.bh5 {
+    padding: 0 20px 0 15px;
+    font-weight: 700;
+    font-size: 35px;
+}
+.bpra {
+    padding: 30px 15px 30px 15px ;
+}
+.bucnt {
+    padding: 0 0 0 25px
+}
+.fw-bold {
+    padding: 0 10px 0 0;
+}
+.bimg {
+    padding-top: 145px;
+    width: 350px;
+}
+/* built end  */
+
+/* charge start  */
+.ch6 {
+    padding: 0 60px 0 60px;
+}
+.crpra {
+    padding: 0 20px 0 20px;
+}
+
+
+.crpad {
+    margin: 0 0 40px 0 !important;
+}
+.crpad2{
+    margin: 0 0 0 0 !important;
+}
+/* charge end  */
+
+/* testimonial start */
+.teimg {
+    padding: 50px 0 0 20px;
+}
+
+.teh5 {
+    padding: 0 0 0 11px !important;
+}
+/* testimonial end  */
+
+/* question start  */
+.qupra {
+    padding: 0 120px 0 120px;
+}
+.qupad {
+    margin: 0 60px 0 60px;
+}
+
+/* question end  */
+
+/* download start  */
+.dowmar {
+    margin: 0 0px 0 0px !important;
+}
+
+.doh2 {
+    padding: 20px 0px 30px 0;
+    font-weight: 700;
+    font-size: 50px;
+}
+.dowith {
+    width: 300px;
+}
+.doimg2 {
+    margin: 80px 0px 0 0;
+}
+/* download end  */
+
+}
+
+ /* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) 
+{
+        /* banner start */
+        .menu {
+            padding: 0 40px 0 0px !important;
+        }
+        .add {
+            padding: 0 0 0 40px !important;
+        }
+        .pad {
+            padding: 0 10px !important;
+        }
+        .header {
+            padding: 10px 0;
+        } 
+        .pimg {
+            padding: 120px 17px 0 0;
+        }   
+    /* banner end  */
+
+    /* companies start  */
+       .padl {
+        padding: 0 15px 0 15px;
+        }
+    /* companies start  */
+/* feature start  */
+.fimg {
+    padding: 0 0 0 0px;
+}
+.ftext {
+    padding: 0px 0px 0px 25px !important;
+}
+.fp {
+    padding: 0 0px 30px 0;
+}
+.fh6 {
+    padding: 0 100px 30px 0;
+    font-weight: 600;
+    font-size: 36px;
+}
+.fpng {
+    padding: 0 70px 0 0px;
+}
+.ficon {
+    padding: 0px 0 0 0;
+}
+/* feature end  */
+/* smart start / */
+.sh2 {
+    font-size: 39px;
+    font-weight: 700;
+    padding: 0 90px 0 106px;
+    line-height: 60px;
+}
+.sp {
+    padding: 0 157px 0 0;
+}
+/* smart start / */
+
+
+/* design start  */
+.dtex {
+    padding: 0 40px 20px 0;
+    font-weight: 700;
+    font-size: 38px;
+}
+
+.dtext {
+    padding: 50px 0px 0 90px;
+}
+
+.dmr {
+    margin: 0 0 0 0;
+}
+
+.dimg {
+    width: 400px;
+}
+
+/* design start  */
+/* built start  */
+.bh5 {
+    padding: 0 100px 0 0px;
+    font-weight: 700;
+    font-size: 35px;
+}
+.bpra {
+    padding: 30px 120px 30px 0px;
+}
+.bucnt {
+    padding: 0 0 0 10px;
+}
+/* built end  */
+/* charge start  */
+.crpad {
+    margin: 0 20px 0 150px !important;
+}
+.crpad2{
+    margin: 0 150px 0 20px !important;
+}
+/* charge end  */
+
+/* testimonial start */
+.teimg {
+    padding: 50px 0 0 20px;
+}
+
+/* testimonial end  */
+
+
+/* question start  */
+.qupra {
+    padding: 0 250px 0 250px;
+}
+
+
+/* question end  */
+
+/* download start  */
+.dowmar {
+    margin: 0 0px 0 0px !important;
+}
+
+.doh2 {
+    padding: 20px 0px 30px 0;
+    font-weight: 700;
+    font-size: 50px;
+}
+.dowith {
+    width: 500px;
+}
+.doimg2 {
+    margin: 0px 0 0 0;
+}
+/* download end  */
+
+}
+
+
+
+ /* Extra large devices (large desktops, 1200px and up) */
+ @media (min-width: 1200px) and (max-width: 1399.98px) 
+ {
+    /* banner start */
+    .menu {
+        padding: 0 40px 0 0px !important;
+    }
+    .add {
+        padding: 0 0 0 40px !important;
+    }
+    .pad {
+        padding: 0 10px !important;
+    }
+    .header {
+        padding: 10px 0;
+    } 
+    .pimg {
+        padding: 120px 17px 0 0;
+    }   
+    /* banner end  */
+
+/* companies start  */
+    .padl {
+    padding: 0 30px 0 30px;
+    }
+/* companies start  */
+
+/* feature start  */
+.fimg {
+    padding: 0 0 0 20px;
+}
+.ftext {
+    padding: 0px 186px 0px 30px !important;
+}
+/* feature end  */
+
+/* smart start / */
+.sh2 {
+    font-size: 45px;
+    font-weight: 700;
+    padding: 0 90px 0 106px;
+    line-height: 65px;
+}
+.sp {
+    padding: 0 157px 0 0;
+}
+/* smart start / */
+
+/* design start  */
+.dtex {
+    padding: 0 40px 20px 0;
+    font-weight: 700;
+    font-size: 38px;
+}
+
+.dtext {
+    padding: 100px 60px 0 30px;
+}
+
+.dmr {
+    margin: 0 0 0 0;
+}
+
+/* design start  */
+
+/* charge start  */
+.ch6 {
+    padding: 0 60px 0 60px;
+}
+/* charge end  */
+
+/* download start  */
+.dowmar {
+    margin: 0 0px 0 0px !important;
+}
+/* download end  */
+ }
+
+ /* Extra Extra large devices (large desktops, 1400px and up) */
+@media (min-width: 1400px) 
+{}

@@ -1,0 +1,400 @@
+/* google font start */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+/* google end  */
+
+/* common start */
+body{
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: #242f51 !important;
+}
+/* common end */
+
+/* header start */
+.pad{
+    padding: 0 100px !important;
+}
+
+.header{
+    padding: 20px 0;
+
+}
+.add{    
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-size: 21px;
+    color: #fcae61;
+    padding: 0 0 0 200px !important;
+}
+.add2{
+    color: #242f51;
+}
+/* menu start */
+.menu{
+    padding: 0 200px 0 0px !important;
+}
+.menu ul li a{
+    font-weight: 500;
+    font-size: 16px;
+    padding: 0 20px 0 0 !important;
+    color: #242f51;
+}
+.menu ul li a:hover{
+    color: black;
+}
+.try button {
+    margin: 0 0 0 25px;
+    padding: 10px 30px;
+    background-color: #2500f9;
+    color: aliceblue ;
+    border: none;
+    border-radius: 50px 50px;
+}
+.try button:hover{
+    background-color: #4c2fed;
+}
+
+/* menu end */
+
+/* header end */
+
+/* banner start  */
+.banner{
+    background-image: url(../image/siamjulfiqur/hero-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+}
+.bntext{
+    padding: 260px 0 300px 0px;
+}
+.badge {
+    background-color: #e2eaed;
+    line-height: 0.8125rem;
+}
+
+.bh2{
+    padding: 20px 0 0 0;
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-size: 50px;
+}
+.ph2{
+padding: 20px 100px 30px 0;
+color: #6a6c71;
+    
+}
+.cnt{
+
+}
+.bbh2{
+   
+    border: none;
+    padding: 10px 30px 10px 30px;
+    border-radius: 20px 20px;
+    background-color:#2500f9;
+    color: #e2eaed;
+    
+    
+}
+.ah2{
+    text-decoration: none;
+    padding-left: 30px;
+    color: #4c2fed;
+}
+.ah2:hover{
+
+color: #242f51;
+}
+
+.pimg{
+    padding: 120px 18px 0 0
+}
+
+/* banner end  */
+
+
+/* companies start */
+.likep{
+    padding: 80px 0 40px 0;
+}
+.padl{
+    padding: 0 120px 0 120px ;
+}
+/* companies end */
+
+/* feature start  */
+.fimg{
+    padding: 0 0 0 100px;
+}
+.fpng{
+    /* width: 300px; */
+}
+.pfeat{
+    padding: 150px 0 0 0 !important;
+}
+.ficon{
+    padding: 40px 0 0 0;
+}
+.ftext{
+    padding: 0 260px 0 30px !important;
+}
+.fh6{
+padding: 0 300px 30px 0;
+font-weight: 600;
+font-size: 36px;
+}
+.fp{
+    padding:0 150px 0 0 ;
+}
+.fwt{
+
+}
+.fsnt{}
+.pp2{}
+/* feature end  */
+
+/* smart start  */
+
+.stext{
+    padding: 100px 0 0 0 !important;
+}
+.sh2{
+    font-size: 50px;
+    font-weight: 700;
+    padding: 0 118px 0 106px;;
+    line-height: 65px;
+
+    
+}
+
+.sp{
+    padding: 0 240px 0 0
+}
+
+
+/* smart end  */
+
+/* smart icon start  */
+.sipad{
+    padding: 80px 0 0 0 !important;
+}
+
+
+/* smart icon end  */
+
+/* design start */
+.dpad{
+    padding: 150px 0 0 0 !important;
+}
+.dtext{
+    padding: 100px 150px 0 30px
+}
+
+.dtex{
+    padding: 0 40px 20px 0;
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.dimg{}
+.dp{
+    padding: 0 0 30px 0;
+}
+
+.dmr{
+    margin: 0 0 0 80px;
+}
+/* design end */
+
+/* choose start  */
+.ctext{
+    text-align: center;
+    padding: 150px 0 0 0;
+}
+.cpra{
+    padding: 20px 230px 0 230px;
+}
+/* choose start  */
+
+
+/* choose icon start  */
+.cip{
+ padding: 10px 50px 0 50px;
+
+}
+
+.cipad{
+    padding: 100px 0 0 0 !important;
+}
+.cmp{
+    padding: 0 0 40px 0 !important;
+}
+/* choose ico end  */
+
+
+/* built start */
+.bimg {
+    padding-top: 150px;
+    width: 450px;
+}
+
+.built{
+    padding: 150px 0 0 0;
+}
+.bucnt{
+    padding: 0 0 0 100px
+}
+.bh5{
+    padding: 0 200px 0 90px;
+    font-weight: 700;
+    font-size: 35px;
+}
+
+.bpra{
+    padding: 30px 120px 30px 90px;
+}
+
+.bui-pad{
+
+}
+
+.bpra2{
+    padding: 0 50px 0 0 ;
+}
+/* buitl end  */
+
+/* charge start */
+.ch6{
+    padding: 0 50px 0 50px;
+}
+
+.timr{
+    padding: 0 0 40px 0;
+}
+.crpra{}
+
+.crcard{
+    
+    padding: 0px 0px 0 0px !important;
+}
+.crpad{
+    margin: 0 20px 0 250px !important ;
+}
+
+
+
+.crpad2{
+    margin: 0 250px 0 20px !important;
+}
+.crcard2{
+    padding: 100px 0 0 0;
+}
+
+.crcard3{
+    padding: 0 0 30px 0 !important ;
+}
+
+.ulcr{}
+.bbt3{}
+/* charge end  */
+
+/* testimonial start  */
+.built1{
+    padding: 200px 0 0 0;
+}
+
+.teimg{}
+
+.teinner{}
+
+.teh5{
+    padding: 0 0 0 11px !important;
+}
+/* testimonial end  */
+
+/* question start  */
+
+.prapad{
+    padding: 0 0 50px 0;
+}
+.qupra{
+    padding: 0 300px 0 300px;
+}
+
+.quh2{
+    padding: 0 0 20px 0;
+}
+
+.qupad {
+    margin: 0 120px 0 120px;
+}
+
+/* ques tion end */
+
+/* download start */
+.dowmar{
+    margin: 0 90px 0 90px !important;
+}
+
+.doh2{
+    padding: 20px 70px 30px 0;
+    font-weight: 700;
+    font-size: 50px;
+}
+
+.dopra{
+    padding: 0 0 30px 0px;
+}
+
+.pay{}
+
+.app {
+    margin: 0 0 0 20px;
+}
+
+.doimg{}
+
+.doimg2 {
+    margin: 70px 0 0 0;
+}
+
+.dowith{}
+/* download end */
+
+
+/* footer start */
+.bag{
+    padding-bottom: 100px;
+    text-align: center;
+    background-color: #09142e;
+}
+.fot1{
+    padding: 100px 0 50px 0;
+    font-weight: 700;
+    font-size: 21px;
+    color: #fcae61;
+}
+
+.fot2{
+    color: #e2eaed;
+}
+.icon{
+    padding: 30px 0 0 0 !important;
+}
+.icon ul li a{
+    margin: 0 15px 0 0 !important;
+    font-size: 25px;
+    color: white;
+}
+
+.footerpra{
+    padding: 30px 0 0 0 !important;
+    color: #e2eaed;
+}
+.text-light {
+    text-decoration: none;
+}
+/* footer end */
